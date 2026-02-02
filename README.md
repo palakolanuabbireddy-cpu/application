@@ -1,0 +1,1 @@
+[![Build Status](https://dev.azure.com/palakolanureddy86/test/_apis/build/status%2Fpalakolanuabbireddy-cpu.application?branchName=Master)](https://dev.azure.com/palakolanureddy86/test/_build/latest?definitionId=2&branchName=Master)
